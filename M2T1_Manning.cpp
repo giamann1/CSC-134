@@ -17,16 +17,16 @@ int main()
     // all in $, except the percent
     double meal price = 5.99;
     double tax_percent = 0.08;
-    double tax_amount;
-    double total;
+    double tax_amount 0;
+    double total = 0;
 
     // do calculations
 
     // print the receipt
     // TODO: make it line up, and fix decimals
-    cout << meal << meal_price;
-    cout << "tax" << tax_amount;
-    cout << "total" << total;
+    cout << meal << "/t << meal_price << endl;
+    cout << "tax"   << "/t/t" << tax_amount << endl;
+    cout << "total:" << "/t/t$" << total << endl;
     
     return 0;
 }
