@@ -27,6 +27,7 @@ int main () {
     area1 = length1 * width1;
     area2 = length2 * width2;
     // Print the areas
-    
+    cout << "The first rectangele is " << area1 << endl;
+    cout << "The second rectangele is " << area2 << endl;
     return 0;
 }
